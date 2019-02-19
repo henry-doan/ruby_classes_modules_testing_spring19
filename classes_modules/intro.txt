@@ -1,0 +1,68 @@
+# Review
+
+# Datatypes
+  1
+  1.3
+  true false
+  "strings" 'string'
+  nil
+
+# Arrays
+  cars = ['car1', 'car2']
+  cars[1]
+
+# Hashes
+  person = { key: value }
+  person[:key]
+
+  hash = { 1 => 'value' }
+  hash[1]
+
+  hash = { 'hello' => 'world' }
+  hash['hello']
+
+# Methods
+
+  def method_end
+
+  end
+
+  def method_end(args, args)
+
+  end
+
+  "#{variable + variable2}"
+
+  method_end
+  method_end(params, params)
+
+# gems
+  coding Libraries
+  ruby gems
+  modules
+
+
+class 
+  acts as blueprints
+
+modules
+  places where you can use blocks of code
+
+oop - object oriented programming
+  we treat everything as an object
+
+inheritance -
+  class
+  parent to child relationship
+  inherit from a single parent
+  one direction
+
+Encapsulation -
+  class 
+  bundle data with the methods that uses the data
+
+Polymorphism -
+  class
+  object can take many forms 
+
+
